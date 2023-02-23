@@ -1,5 +1,10 @@
 # The Hungry Developer
 
+
+## :camera_flash: Screenshots
+<!-- You can add more screenshots here if you like -->
+<img src="mainmenu.png" width="260">&emsp;<img src="startersmenu.png" width="260">
+
 ## Author
 Bernardo Oechsler (follow me on [Linkedin](https://www.linkedin.com/in/bernardo-oechsler-b84995194))
 
