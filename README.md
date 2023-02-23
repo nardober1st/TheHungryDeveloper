@@ -1,5 +1,29 @@
 # The Hungry Developer
+The Hungry Developer is a restuarant app that I have developed following Vin Norman Udemy Course in order to practice what I'm studying.
 
+## Technologies
+* Java
+  - Different Methods
+  - Class
+* ViewGroup
+    * ScrollView
+    * RelativeLayout   
+    * LinearLayout 
+    * CardView
+    * ListView
+- UI Components
+    - TextView
+    - View
+    - ImageView
+* FindViewById to get UI Components
+* Explicit Intent to open starters, main course and desserts activities
+* Implicit Intent to send an email
+* ArrayAdapter
+
+
+### TODO
+- Update App's design
+- Add new functions and features
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
