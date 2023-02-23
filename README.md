@@ -1,6 +1,10 @@
 # The Hungry Developer
 The Hungry Developer is a restuarant app that I have developed following Vin Norman Udemy Course in order to practice what I'm studying.
 
+## :camera_flash: Screenshots
+<!-- You can add more screenshots here if you like -->
+<img src="mainmenu.png" width="230">&emsp;<img src="startersmenu.png" width="230">&emsp;<img src="maincourses.png" width="230">&emsp;<img src="desserts.png" width="230">
+
 ## Technologies
 * Java
   - Different Methods
@@ -24,10 +28,6 @@ The Hungry Developer is a restuarant app that I have developed following Vin Nor
 ### TODO
 - Update App's design
 - Add new functions and features
-
-## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
-<img src="mainmenu.png" width="230">&emsp;<img src="startersmenu.png" width="230">&emsp;<img src="maincourses.png" width="230">&emsp;<img src="desserts.png" width="230">
 
 ## Author
 Bernardo Oechsler (follow me on [Linkedin](https://www.linkedin.com/in/bernardo-oechsler-b84995194))
