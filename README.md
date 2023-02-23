@@ -3,7 +3,7 @@
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="mainmenu.png" width="260">&emsp;<img src="startersmenu.png" width="260">&emsp;<img src="maincourse.png" width="260">&emsp;<img src="desserts.png" width="260">
+<img src="mainmenu.png" width="200">&emsp;<img src="startersmenu.png" width="200">&emsp;<img src="maincourse.png" width="200">&emsp;<img src="desserts.png" width="200">
 
 ## Author
 Bernardo Oechsler (follow me on [Linkedin](https://www.linkedin.com/in/bernardo-oechsler-b84995194))
